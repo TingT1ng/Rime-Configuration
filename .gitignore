@@ -1,0 +1,9 @@
+# Mac OS
+.DS_Store
+# Ignore user folder
+sync
+luna_pinyin.userdb
+trash
+user.yaml
+# Ignore rime build folder
+build
