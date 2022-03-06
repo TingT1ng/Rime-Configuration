@@ -27,7 +27,7 @@
   5. 安装字体文件(font 文件夹内的两个文件)
   
   ## How to edit the config
-  > 請直接前往查看下面repo 
+  > 請前往下方`Repo`的`README` 
   ## Ref
-  1. [rime-settings](https://github.com/wongdean/rime-setting) 參考版本： 0.15.1
+  1. [rime-settings](https://github.com/wongdean/rime-settings) 參考版本： 0.15.1
   
