@@ -16,3 +16,8 @@
 
 又双叒叕	yyyy
 郭宗祐	gzy
+衛星軸	wxz
+衛星軸	weixingzhou
+狗幹	gougan
+丼飯	dongfan
+牛丼	niudong
